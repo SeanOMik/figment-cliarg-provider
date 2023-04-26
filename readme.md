@@ -8,7 +8,7 @@ This crate is a pretty simple implementation for getting config options from cli
 
 CLI Arguments:
 ```shell
-./program --db.name=my-database --host=my-host --port=5432 --user=my-user --password=my-password
+./program --db.name=my-database --db.host=my-host --db.port=5432 --db.user=my-user --db.password=my-password
 ```
 
 TOML config:
